@@ -1,0 +1,6 @@
+Name: Ahmed Ali
+PIN: 1234
+Balance: 100.0
+Date: 04/09/2023 09:39:52 PM
+Balance: 50.0
+Date: 04/09/2023 09:40:18 PM

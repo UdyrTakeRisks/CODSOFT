@@ -1,0 +1,6 @@
+Name: Mohamed
+PIN: 6005
+Balance: 500.0
+Date: 04/09/2023 09:40:52 PM
+Balance: 400.0
+Date: 04/09/2023 09:40:59 PM
