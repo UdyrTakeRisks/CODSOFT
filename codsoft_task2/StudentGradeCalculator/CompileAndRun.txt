@@ -1,0 +1,15 @@
+
+Firstly You Need to have a jdk java compiler version -> oracle openjdk 19
+
+Then you need to open the terminal/cmd on the program dir
+
+Compile the Program using
+
+- javac Presenter.java
+
+Run the Program using
+
+- java Presenter
+
+
+That's it!

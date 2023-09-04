@@ -1,0 +1,32 @@
+Student Name: Ahmed Ali Ahmed Ismail
+Student ID: 20206005
+Number Of Subjects: 6
+Subject(1): 90
+Grade: A+
+Subject(2): 80
+Grade: B+
+Subject(3): 88
+Grade: A
+Subject(4): 75
+Grade: B
+Subject(5): 93
+Grade: A+
+Subject(6): 82
+Grade: B+
+Total Marks: 508
+Average Percentage: 84.67%
+Overall Grade: B
+-----------------------------
+Student Name: Ahmed Ali
+Student ID: 20206080
+Number Of Subjects: 3
+Subject(1): 90
+Grade: A+
+Subject(2): 70
+Grade: C+
+Subject(3): 60
+Grade: D+
+Total Marks: 220
+Average Percentage: 73.33%
+Overall Grade: C
+-----------------------------
