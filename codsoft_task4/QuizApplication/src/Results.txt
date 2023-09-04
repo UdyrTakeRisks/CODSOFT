@@ -1,0 +1,20 @@
+Name: Ahmed Ali
+Number of Questions: 3
+Final Quiz Score: 1/3
+Quiz Summary:
+
+Question(1): Which statement is used to exit a loop in Java?
+Choices: a) break b) continue c) return d) exit
+Your Answer is: a (Correct) 
+
+Question(2): Which access modifier provides the highest level of visibility in Java?
+Choices: a) public b) private c) protected d) default (no modifier)
+Your Answer is: b (Incorrect) 
+The Correct Answer is: a
+
+Question(3): Which statement is used to handle exceptions in Java?
+Choices: a) try b) catch c) throw d) finally
+Your Answer is:  (Incorrect) 
+The Correct Answer is: b
+
+
